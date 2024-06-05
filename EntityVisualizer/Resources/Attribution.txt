@@ -4,15 +4,25 @@ NOTO EMOJI      -  Copyright 2013 Google LLC
 (see OFL.txt)
 
 ------------------------------------------------------------------------
+SPRITES
+~
+Sprite Set 1 is by  user VEXED on Itch.io, released under the CC0 license (public domain).
 
-Sprites come from user VEXED on Itch.io, released under the CC0 license (public domain).
+VEXED Contact Details @ {https://v3x3d.itch.io/, https://twitter.com/_V3X3D}
 
-https://v3x3d.itch.io/
-https://twitter.com/_V3X3D
-
-https://v3x3d.itch.io/bit-bonanza (v5.0)
+Sprite Set 1's Sheets include Bit Bonanza, v5.0; Bountiful Bits, v3.1; 
+https://v3x3d.itch.io/bit-bonanza 
 https://v3x3d.itch.io/bountiful-bits (v3.1)
 
+~ 
+Sprite Set 2 is by user 'Taffer' and is published to the Dwarf Fortress Wiki. 
+Taffer Contact Details @ {https://github.com/DFgraphics/Taffer, GitHub; http://www.bay12forums.com/smf/index.php?topic=107924.0, Bay12 Forums}
+
+Sprite Set 2's Sheet yet to be completed. 
+
+---------------
+FONTS
+~
 DungeonFont comes from user vrtxrry on Itch.io, also released under CC0.
 
 https://vrtxrry.itch.io/
